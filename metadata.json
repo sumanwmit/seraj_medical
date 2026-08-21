@@ -1,0 +1,6 @@
+{
+  "name": "Seraj Medical Hall",
+  "description": "Trusted pharmacy and healthcare store in Jehanabad, Bihar. Providing genuine medicines, surgical supplies, and WhatsApp prescription ordering.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

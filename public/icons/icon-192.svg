@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="40" fill="#0A8F6A"/>
+  <rect x="24" y="24" width="144" height="144" rx="28" fill="#ffffff" opacity="0.12"/>
+  <!-- Pharmacy Cross & Pill -->
+  <path d="M96 44 L96 148 M44 96 L148 96" stroke="#ffffff" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="96" cy="96" r="26" fill="#0A8F6A"/>
+  <text x="96" y="104" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="24" fill="#ffffff" text-anchor="middle">S</text>
+</svg>
